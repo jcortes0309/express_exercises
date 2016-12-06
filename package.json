@@ -1,5 +1,5 @@
 {
-  "name": "Say hello",
+  "name": "say_hello",
   "version": "1.0.0",
   "description": "Simple say hello exercise",
   "main": "say_hello.js",
